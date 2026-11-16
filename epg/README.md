@@ -1,4 +1,22 @@
-# Placeholder – files appear after first GitHub Action run
+# Auto-updated EPG files
 
-Main file after update:
-- epg.xml / epg.xml.gz  (combined: bulk + all individual epg.pw channels)
+Last run: 2026-11-16 04:54 UTC
+
+## Main combined file (use this)
+
+- `epg.xml` / `epg.xml.gz` — **lahat ng sources naka-merge** (bulk + individual epg.pw channels)
+
+## Individual mirrors (optional)
+
+- `cinema_one_legacy.xml` (1.0 KB)
+- `cinemaone-ctc.xml` (40.6 KB)
+- `epg_PH.xml` (1571.8 KB)
+- `ph-tv-epg.xml` (369.2 KB)
+- `sony-epg.xml` (229.8 KB)
+
+## Raw URLs (after push)
+
+```
+https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/epg/epg.xml
+https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/epg/epg.xml.gz
+```
