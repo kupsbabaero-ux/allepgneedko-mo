@@ -1,6 +1,6 @@
 # Auto-updated EPG files
 
-Last run: 2026-11-18 22:59 UTC
+Last run: 2026-11-19 13:09 UTC
 
 ## Main combined file (use this)
 
@@ -10,7 +10,7 @@ Last run: 2026-11-18 22:59 UTC
 
 - `cinema_one_legacy.xml` (1.0 KB)
 - `cinemaone-ctc.xml` (38.9 KB)
-- `epg_PH.xml` (1572.4 KB)
+- `epg_PH.xml` (1579.4 KB)
 - `ph-tv-epg.xml` (369.2 KB)
 - `sony-epg.xml` (229.8 KB)
 
