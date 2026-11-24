@@ -1,6 +1,6 @@
 # Auto-updated EPG files
 
-Last run: 2026-11-24 02:57 UTC
+Last run: 2026-11-24 14:55 UTC
 
 ## Main combined file (use this)
 

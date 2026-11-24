@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="ph-epg-auto" generator-info-url="https://github.com/" date="20261124025743 +0000"><channel id="TV5.ph">
+<tv generator-info-name="ph-epg-auto" generator-info-url="https://github.com/" date="20261124145512 +0000"><channel id="TV5.ph">
     <display-name>TV5</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TV5_Logo_2021.svg/200px-TV5_Logo_2021.svg.png" />
   </channel>
@@ -48088,71 +48088,23 @@
     <category lang="en">General</category>
     <episode-num system="clickthecity">111583</episode-num>
   </programme>
-<programme start="20261123170000 +0800" stop="20261123190000 +0800" channel="CinemaOne.ph">
+<programme start="20261124170000 +0800" stop="20261124190000 +0800" channel="CinemaOne.ph">
     <title lang="en">Shake, Rattle &amp; Roll 12</title>
     <desc lang="en">Live schedule fetched from ClickTheCity EPG listings.</desc>
   </programme>
-  <programme start="20261123190000 +0800" stop="20261123210000 +0800" channel="CinemaOne.ph">
+  <programme start="20261124190000 +0800" stop="20261124210000 +0800" channel="CinemaOne.ph">
     <title lang="en">Last Night</title>
     <desc lang="en">Live schedule fetched from ClickTheCity EPG listings.</desc>
   </programme>
-  <programme start="20261123210000 +0800" stop="20261123230000 +0800" channel="CinemaOne.ph">
+  <programme start="20261124210000 +0800" stop="20261124230000 +0800" channel="CinemaOne.ph">
     <title lang="en">The Love Affair</title>
     <desc lang="en">Live schedule fetched from ClickTheCity EPG listings.</desc>
   </programme>
-  <programme start="20261123230000 +0800" stop="20261124010000 +0800" channel="CinemaOne.ph">
+  <programme start="20261124230000 +0800" stop="20261125010000 +0800" channel="CinemaOne.ph">
     <title lang="en">Abandoned</title>
     <desc lang="en">Live schedule fetched from ClickTheCity EPG listings.</desc>
   </programme>
-<programme start="20261123000000 +0000" stop="20261123020000 +0000" channel="SonyCine">
-    <title lang="en">To Be Announced</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20261123020000 +0000" stop="20261123040000 +0000" channel="SonyCine">
-    <title lang="en">To Be Announced</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20261123040000 +0000" stop="20261123060000 +0000" channel="SonyCine">
-    <title lang="en">To Be Announced</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20261123060000 +0000" stop="20261123080000 +0000" channel="SonyCine">
-    <title lang="en">To Be Announced</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20261123080000 +0000" stop="20261123100000 +0000" channel="SonyCine">
-    <title lang="en">To Be Announced</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20261123100000 +0000" stop="20261123120000 +0000" channel="SonyCine">
-    <title lang="en">To Be Announced</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20261123120000 +0000" stop="20261123140000 +0000" channel="SonyCine">
-    <title lang="en">To Be Announced</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20261123140000 +0000" stop="20261123160000 +0000" channel="SonyCine">
-    <title lang="en">To Be Announced</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20261123160000 +0000" stop="20261123180000 +0000" channel="SonyCine">
-    <title lang="en">To Be Announced</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20261123180000 +0000" stop="20261123200000 +0000" channel="SonyCine">
-    <title lang="en">To Be Announced</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="SonyCine">
-    <title lang="en">To Be Announced</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20261123220000 +0000" stop="20261124000000 +0000" channel="SonyCine">
-    <title lang="en">To Be Announced</title>
-    <category lang="en">Movies</category>
-  </programme>
-  <programme start="20261124000000 +0000" stop="20261124020000 +0000" channel="SonyCine">
+<programme start="20261124000000 +0000" stop="20261124020000 +0000" channel="SonyCine">
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
@@ -48776,51 +48728,51 @@
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123000000 +0000" stop="20261123020000 +0000" channel="SonyMoviesChannel">
+  <programme start="20261207000000 +0000" stop="20261207020000 +0000" channel="SonyCine">
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123020000 +0000" stop="20261123040000 +0000" channel="SonyMoviesChannel">
+  <programme start="20261207020000 +0000" stop="20261207040000 +0000" channel="SonyCine">
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123040000 +0000" stop="20261123060000 +0000" channel="SonyMoviesChannel">
+  <programme start="20261207040000 +0000" stop="20261207060000 +0000" channel="SonyCine">
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123060000 +0000" stop="20261123080000 +0000" channel="SonyMoviesChannel">
+  <programme start="20261207060000 +0000" stop="20261207080000 +0000" channel="SonyCine">
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123080000 +0000" stop="20261123100000 +0000" channel="SonyMoviesChannel">
+  <programme start="20261207080000 +0000" stop="20261207100000 +0000" channel="SonyCine">
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123100000 +0000" stop="20261123120000 +0000" channel="SonyMoviesChannel">
+  <programme start="20261207100000 +0000" stop="20261207120000 +0000" channel="SonyCine">
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123120000 +0000" stop="20261123140000 +0000" channel="SonyMoviesChannel">
+  <programme start="20261207120000 +0000" stop="20261207140000 +0000" channel="SonyCine">
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123140000 +0000" stop="20261123160000 +0000" channel="SonyMoviesChannel">
+  <programme start="20261207140000 +0000" stop="20261207160000 +0000" channel="SonyCine">
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123160000 +0000" stop="20261123180000 +0000" channel="SonyMoviesChannel">
+  <programme start="20261207160000 +0000" stop="20261207180000 +0000" channel="SonyCine">
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123180000 +0000" stop="20261123200000 +0000" channel="SonyMoviesChannel">
+  <programme start="20261207180000 +0000" stop="20261207200000 +0000" channel="SonyCine">
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="SonyMoviesChannel">
+  <programme start="20261207200000 +0000" stop="20261207220000 +0000" channel="SonyCine">
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123220000 +0000" stop="20261124000000 +0000" channel="SonyMoviesChannel">
+  <programme start="20261207220000 +0000" stop="20261208000000 +0000" channel="SonyCine">
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
@@ -49448,53 +49400,53 @@
     <title lang="en">To Be Announced</title>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123000000 +0000" stop="20261123020000 +0000" channel="SonyOneComedyHits">
+  <programme start="20261207000000 +0000" stop="20261207020000 +0000" channel="SonyMoviesChannel">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123020000 +0000" stop="20261123040000 +0000" channel="SonyOneComedyHits">
+  <programme start="20261207020000 +0000" stop="20261207040000 +0000" channel="SonyMoviesChannel">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123040000 +0000" stop="20261123060000 +0000" channel="SonyOneComedyHits">
+  <programme start="20261207040000 +0000" stop="20261207060000 +0000" channel="SonyMoviesChannel">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123060000 +0000" stop="20261123080000 +0000" channel="SonyOneComedyHits">
+  <programme start="20261207060000 +0000" stop="20261207080000 +0000" channel="SonyMoviesChannel">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123080000 +0000" stop="20261123100000 +0000" channel="SonyOneComedyHits">
+  <programme start="20261207080000 +0000" stop="20261207100000 +0000" channel="SonyMoviesChannel">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123100000 +0000" stop="20261123120000 +0000" channel="SonyOneComedyHits">
+  <programme start="20261207100000 +0000" stop="20261207120000 +0000" channel="SonyMoviesChannel">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123120000 +0000" stop="20261123140000 +0000" channel="SonyOneComedyHits">
+  <programme start="20261207120000 +0000" stop="20261207140000 +0000" channel="SonyMoviesChannel">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123140000 +0000" stop="20261123160000 +0000" channel="SonyOneComedyHits">
+  <programme start="20261207140000 +0000" stop="20261207160000 +0000" channel="SonyMoviesChannel">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123160000 +0000" stop="20261123180000 +0000" channel="SonyOneComedyHits">
+  <programme start="20261207160000 +0000" stop="20261207180000 +0000" channel="SonyMoviesChannel">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123180000 +0000" stop="20261123200000 +0000" channel="SonyOneComedyHits">
+  <programme start="20261207180000 +0000" stop="20261207200000 +0000" channel="SonyMoviesChannel">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="SonyOneComedyHits">
+  <programme start="20261207200000 +0000" stop="20261207220000 +0000" channel="SonyMoviesChannel">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
   </programme>
-  <programme start="20261123220000 +0000" stop="20261124000000 +0000" channel="SonyOneComedyHits">
+  <programme start="20261207220000 +0000" stop="20261208000000 +0000" channel="SonyMoviesChannel">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Movies</category>
   </programme>
   <programme start="20261124000000 +0000" stop="20261124020000 +0000" channel="SonyOneComedyHits">
     <title lang="en">To Be Announced</title>
@@ -50120,53 +50072,53 @@
     <title lang="en">To Be Announced</title>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123000000 +0000" stop="20261123020000 +0000" channel="SonyOneActionHits">
+  <programme start="20261207000000 +0000" stop="20261207020000 +0000" channel="SonyOneComedyHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123020000 +0000" stop="20261123040000 +0000" channel="SonyOneActionHits">
+  <programme start="20261207020000 +0000" stop="20261207040000 +0000" channel="SonyOneComedyHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123040000 +0000" stop="20261123060000 +0000" channel="SonyOneActionHits">
+  <programme start="20261207040000 +0000" stop="20261207060000 +0000" channel="SonyOneComedyHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123060000 +0000" stop="20261123080000 +0000" channel="SonyOneActionHits">
+  <programme start="20261207060000 +0000" stop="20261207080000 +0000" channel="SonyOneComedyHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123080000 +0000" stop="20261123100000 +0000" channel="SonyOneActionHits">
+  <programme start="20261207080000 +0000" stop="20261207100000 +0000" channel="SonyOneComedyHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123100000 +0000" stop="20261123120000 +0000" channel="SonyOneActionHits">
+  <programme start="20261207100000 +0000" stop="20261207120000 +0000" channel="SonyOneComedyHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123120000 +0000" stop="20261123140000 +0000" channel="SonyOneActionHits">
+  <programme start="20261207120000 +0000" stop="20261207140000 +0000" channel="SonyOneComedyHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123140000 +0000" stop="20261123160000 +0000" channel="SonyOneActionHits">
+  <programme start="20261207140000 +0000" stop="20261207160000 +0000" channel="SonyOneComedyHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123160000 +0000" stop="20261123180000 +0000" channel="SonyOneActionHits">
+  <programme start="20261207160000 +0000" stop="20261207180000 +0000" channel="SonyOneComedyHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123180000 +0000" stop="20261123200000 +0000" channel="SonyOneActionHits">
+  <programme start="20261207180000 +0000" stop="20261207200000 +0000" channel="SonyOneComedyHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="SonyOneActionHits">
+  <programme start="20261207200000 +0000" stop="20261207220000 +0000" channel="SonyOneComedyHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123220000 +0000" stop="20261124000000 +0000" channel="SonyOneActionHits">
+  <programme start="20261207220000 +0000" stop="20261208000000 +0000" channel="SonyOneComedyHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
   </programme>
   <programme start="20261124000000 +0000" stop="20261124020000 +0000" channel="SonyOneActionHits">
     <title lang="en">To Be Announced</title>
@@ -50792,53 +50744,53 @@
     <title lang="en">To Be Announced</title>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20261123000000 +0000" stop="20261123020000 +0000" channel="SonyOneComedyTV">
+  <programme start="20261207000000 +0000" stop="20261207020000 +0000" channel="SonyOneActionHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20261123020000 +0000" stop="20261123040000 +0000" channel="SonyOneComedyTV">
+  <programme start="20261207020000 +0000" stop="20261207040000 +0000" channel="SonyOneActionHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20261123040000 +0000" stop="20261123060000 +0000" channel="SonyOneComedyTV">
+  <programme start="20261207040000 +0000" stop="20261207060000 +0000" channel="SonyOneActionHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20261123060000 +0000" stop="20261123080000 +0000" channel="SonyOneComedyTV">
+  <programme start="20261207060000 +0000" stop="20261207080000 +0000" channel="SonyOneActionHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20261123080000 +0000" stop="20261123100000 +0000" channel="SonyOneComedyTV">
+  <programme start="20261207080000 +0000" stop="20261207100000 +0000" channel="SonyOneActionHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20261123100000 +0000" stop="20261123120000 +0000" channel="SonyOneComedyTV">
+  <programme start="20261207100000 +0000" stop="20261207120000 +0000" channel="SonyOneActionHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20261123120000 +0000" stop="20261123140000 +0000" channel="SonyOneComedyTV">
+  <programme start="20261207120000 +0000" stop="20261207140000 +0000" channel="SonyOneActionHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20261123140000 +0000" stop="20261123160000 +0000" channel="SonyOneComedyTV">
+  <programme start="20261207140000 +0000" stop="20261207160000 +0000" channel="SonyOneActionHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20261123160000 +0000" stop="20261123180000 +0000" channel="SonyOneComedyTV">
+  <programme start="20261207160000 +0000" stop="20261207180000 +0000" channel="SonyOneActionHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20261123180000 +0000" stop="20261123200000 +0000" channel="SonyOneComedyTV">
+  <programme start="20261207180000 +0000" stop="20261207200000 +0000" channel="SonyOneActionHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="SonyOneComedyTV">
+  <programme start="20261207200000 +0000" stop="20261207220000 +0000" channel="SonyOneActionHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20261123220000 +0000" stop="20261124000000 +0000" channel="SonyOneComedyTV">
+  <programme start="20261207220000 +0000" stop="20261208000000 +0000" channel="SonyOneActionHits">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
   </programme>
   <programme start="20261124000000 +0000" stop="20261124020000 +0000" channel="SonyOneComedyTV">
     <title lang="en">To Be Announced</title>
@@ -51464,53 +51416,53 @@
     <title lang="en">To Be Announced</title>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123000000 +0000" stop="20261123020000 +0000" channel="SonyOneFaves">
+  <programme start="20261207000000 +0000" stop="20261207020000 +0000" channel="SonyOneComedyTV">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123020000 +0000" stop="20261123040000 +0000" channel="SonyOneFaves">
+  <programme start="20261207020000 +0000" stop="20261207040000 +0000" channel="SonyOneComedyTV">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123040000 +0000" stop="20261123060000 +0000" channel="SonyOneFaves">
+  <programme start="20261207040000 +0000" stop="20261207060000 +0000" channel="SonyOneComedyTV">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123060000 +0000" stop="20261123080000 +0000" channel="SonyOneFaves">
+  <programme start="20261207060000 +0000" stop="20261207080000 +0000" channel="SonyOneComedyTV">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123080000 +0000" stop="20261123100000 +0000" channel="SonyOneFaves">
+  <programme start="20261207080000 +0000" stop="20261207100000 +0000" channel="SonyOneComedyTV">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123100000 +0000" stop="20261123120000 +0000" channel="SonyOneFaves">
+  <programme start="20261207100000 +0000" stop="20261207120000 +0000" channel="SonyOneComedyTV">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123120000 +0000" stop="20261123140000 +0000" channel="SonyOneFaves">
+  <programme start="20261207120000 +0000" stop="20261207140000 +0000" channel="SonyOneComedyTV">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123140000 +0000" stop="20261123160000 +0000" channel="SonyOneFaves">
+  <programme start="20261207140000 +0000" stop="20261207160000 +0000" channel="SonyOneComedyTV">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123160000 +0000" stop="20261123180000 +0000" channel="SonyOneFaves">
+  <programme start="20261207160000 +0000" stop="20261207180000 +0000" channel="SonyOneComedyTV">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123180000 +0000" stop="20261123200000 +0000" channel="SonyOneFaves">
+  <programme start="20261207180000 +0000" stop="20261207200000 +0000" channel="SonyOneComedyTV">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="SonyOneFaves">
+  <programme start="20261207200000 +0000" stop="20261207220000 +0000" channel="SonyOneComedyTV">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261123220000 +0000" stop="20261124000000 +0000" channel="SonyOneFaves">
+  <programme start="20261207220000 +0000" stop="20261208000000 +0000" channel="SonyOneComedyTV">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
   </programme>
   <programme start="20261124000000 +0000" stop="20261124020000 +0000" channel="SonyOneFaves">
     <title lang="en">To Be Announced</title>
@@ -52136,53 +52088,53 @@
     <title lang="en">To Be Announced</title>
     <category lang="en">Series</category>
   </programme>
-  <programme start="20261123000000 +0000" stop="20261123020000 +0000" channel="SonyOneThrillerTV">
+  <programme start="20261207000000 +0000" stop="20261207020000 +0000" channel="SonyOneFaves">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
   </programme>
-  <programme start="20261123020000 +0000" stop="20261123040000 +0000" channel="SonyOneThrillerTV">
+  <programme start="20261207020000 +0000" stop="20261207040000 +0000" channel="SonyOneFaves">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
   </programme>
-  <programme start="20261123040000 +0000" stop="20261123060000 +0000" channel="SonyOneThrillerTV">
+  <programme start="20261207040000 +0000" stop="20261207060000 +0000" channel="SonyOneFaves">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
   </programme>
-  <programme start="20261123060000 +0000" stop="20261123080000 +0000" channel="SonyOneThrillerTV">
+  <programme start="20261207060000 +0000" stop="20261207080000 +0000" channel="SonyOneFaves">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
   </programme>
-  <programme start="20261123080000 +0000" stop="20261123100000 +0000" channel="SonyOneThrillerTV">
+  <programme start="20261207080000 +0000" stop="20261207100000 +0000" channel="SonyOneFaves">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
   </programme>
-  <programme start="20261123100000 +0000" stop="20261123120000 +0000" channel="SonyOneThrillerTV">
+  <programme start="20261207100000 +0000" stop="20261207120000 +0000" channel="SonyOneFaves">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
   </programme>
-  <programme start="20261123120000 +0000" stop="20261123140000 +0000" channel="SonyOneThrillerTV">
+  <programme start="20261207120000 +0000" stop="20261207140000 +0000" channel="SonyOneFaves">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
   </programme>
-  <programme start="20261123140000 +0000" stop="20261123160000 +0000" channel="SonyOneThrillerTV">
+  <programme start="20261207140000 +0000" stop="20261207160000 +0000" channel="SonyOneFaves">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
   </programme>
-  <programme start="20261123160000 +0000" stop="20261123180000 +0000" channel="SonyOneThrillerTV">
+  <programme start="20261207160000 +0000" stop="20261207180000 +0000" channel="SonyOneFaves">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
   </programme>
-  <programme start="20261123180000 +0000" stop="20261123200000 +0000" channel="SonyOneThrillerTV">
+  <programme start="20261207180000 +0000" stop="20261207200000 +0000" channel="SonyOneFaves">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
   </programme>
-  <programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="SonyOneThrillerTV">
+  <programme start="20261207200000 +0000" stop="20261207220000 +0000" channel="SonyOneFaves">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
   </programme>
-  <programme start="20261123220000 +0000" stop="20261124000000 +0000" channel="SonyOneThrillerTV">
+  <programme start="20261207220000 +0000" stop="20261208000000 +0000" channel="SonyOneFaves">
     <title lang="en">To Be Announced</title>
-    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
   </programme>
   <programme start="20261124000000 +0000" stop="20261124020000 +0000" channel="SonyOneThrillerTV">
     <title lang="en">To Be Announced</title>
@@ -52805,6 +52757,54 @@
     <category lang="en">Thriller</category>
   </programme>
   <programme start="20261206220000 +0000" stop="20261207000000 +0000" channel="SonyOneThrillerTV">
+    <title lang="en">To Be Announced</title>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20261207000000 +0000" stop="20261207020000 +0000" channel="SonyOneThrillerTV">
+    <title lang="en">To Be Announced</title>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20261207020000 +0000" stop="20261207040000 +0000" channel="SonyOneThrillerTV">
+    <title lang="en">To Be Announced</title>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20261207040000 +0000" stop="20261207060000 +0000" channel="SonyOneThrillerTV">
+    <title lang="en">To Be Announced</title>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20261207060000 +0000" stop="20261207080000 +0000" channel="SonyOneThrillerTV">
+    <title lang="en">To Be Announced</title>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20261207080000 +0000" stop="20261207100000 +0000" channel="SonyOneThrillerTV">
+    <title lang="en">To Be Announced</title>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20261207100000 +0000" stop="20261207120000 +0000" channel="SonyOneThrillerTV">
+    <title lang="en">To Be Announced</title>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20261207120000 +0000" stop="20261207140000 +0000" channel="SonyOneThrillerTV">
+    <title lang="en">To Be Announced</title>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20261207140000 +0000" stop="20261207160000 +0000" channel="SonyOneThrillerTV">
+    <title lang="en">To Be Announced</title>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20261207160000 +0000" stop="20261207180000 +0000" channel="SonyOneThrillerTV">
+    <title lang="en">To Be Announced</title>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20261207180000 +0000" stop="20261207200000 +0000" channel="SonyOneThrillerTV">
+    <title lang="en">To Be Announced</title>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20261207200000 +0000" stop="20261207220000 +0000" channel="SonyOneThrillerTV">
+    <title lang="en">To Be Announced</title>
+    <category lang="en">Thriller</category>
+  </programme>
+  <programme start="20261207220000 +0000" stop="20261208000000 +0000" channel="SonyOneThrillerTV">
     <title lang="en">To Be Announced</title>
     <category lang="en">Thriller</category>
   </programme>
